@@ -4,6 +4,9 @@
 ##  Blueprint JSON Structure Overview
  ![bp.png](https://ucarecdn.com/244d5382-e871-4f92-8d5f-a3a5c72bfbf2/)
  
+##  A Sample 
+![bpg.png](https://ucarecdn.com/3d99fc17-a549-44e1-8693-bfb153b8618b/)
+ 
 ## Functional Model
  ![bp2.png](https://ucarecdn.com/e8e7c435-f1a6-486c-b33d-e442a77b8a95/)
  
@@ -18,5 +21,6 @@
  ![network.png](https://ucarecdn.com/c5ebf39f-0d09-4edd-8fb9-1786f8c2afb3/)
 ### Network Path
  ![np.png](https://ucarecdn.com/604fefbf-f2f2-47b5-8650-db6e25b1bfa9/)
-Sequence
+### Sequence
+![seq2.png](https://ucarecdn.com/e40b1595-4fa7-4a1d-8920-ad565489aa7e/)
  ![seq.png](https://ucarecdn.com/1fe540fb-0368-48bb-b491-c253f2e8dfdd/)
