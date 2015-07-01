@@ -1,0 +1,43 @@
+{
+  "name": "my bp",
+  "version": "1.0",
+  "guid": "b61fdd12-0bad-4c0f-aaf4-ea160e5d79b0",
+  "author": "cloudAdmin",
+  "schemaVersion": "4.5",
+  "lastModify": "2015-07-02 10:15:20",
+  "model": {
+    "resourceset": [
+      {
+        "functionalComponent": [
+          {
+            "guid": "cfcb30be-d3ce-4b5e-ac6d-ac0b86c2af1c",
+            "name": "/JPetStore/Dataload"
+          },
+          {
+            "guid": "cfcb30be-d3ce-4b5e-ac6d-ac0b86c2aedb",
+            "name": "/JPetStore/JDK1.8.0"
+          }
+        ],
+        "compute": {
+          "computecontainer": {
+            "catelog": "openstack_service_catalog",
+            "location": "/j2ee",
+            "name": "std_web"
+          },
+          "cpu": 4,
+          "memory": 1024,
+          "network": [
+            {
+              "name": "NIC0",
+              "network": "Management"
+            },
+            {
+              "name": "NIC1",
+              "network": "Web"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
